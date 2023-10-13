@@ -7,7 +7,6 @@ Tzatziki is a Southern European and Middle Eastern dip. It is made of salted str
 * 1 small garlic clove, crushed
 * handful mint leaves, chopped
 
-
 ## Instructions
 * Coarsely grate cucumber
 * Sprinkle cucumber with a pinch of salt 
